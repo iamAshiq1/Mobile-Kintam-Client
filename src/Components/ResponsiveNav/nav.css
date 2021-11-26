@@ -1,0 +1,14 @@
+.link {
+    font-weight: bold;
+    padding: 5px 10px;
+    margin: 3px 6px;
+    color: black;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px darkgray;
+    background-color: white;
+  }
+  .link:hover{
+    background-color: #404DB6;
+    color: white;
+    border-radius: 4px;
+  }

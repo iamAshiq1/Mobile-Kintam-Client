@@ -1,0 +1,11 @@
+@media screen and (min-width: 300px) and (max-width: 600px) { 
+    .gg {
+        height: 45vh;
+    }
+    h2{
+        font-size: 18px;
+    }
+    p{
+        font-size: 13px;
+    }
+}
